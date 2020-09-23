@@ -1,0 +1,9 @@
+<h1>Search Results</h1>
+
+<ul>
+  {% for course in object_list %}
+    <li>
+      {{ course.class_id }}, {{ course.course_code }}, {{ course.professor }}, {{ course.day }}, {{ course.time }}
+    </li>
+  {% endfor %}
+</ul>

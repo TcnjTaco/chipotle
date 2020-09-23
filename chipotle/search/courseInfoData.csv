@@ -1,0 +1,784 @@
+class_id,course_code,professor,day,time
+40002,ACC 201,Maria Domingo,Tues Fri,08:00
+40016,ACC 201,Wynette Rene,Mon Wed ,17:30
+40009,ACC 201,Terrence Bennett,Mon Thurs ,08:00
+40018,ACC 201,Sunita Ahlawat,Mon Thurs ,09:30
+40227,ACC 201,Marc Padre,Mon Thurs ,14:00
+40003,ACC 201,Maria Domingo,Tues Fri,14:00
+40011,ACC 202,Marjorie Yuschak,Tues Fri,12:30
+40012,ACC 202,Marjorie Yuschak,Tues Fri,09:30
+40014,ACC 202,Christina Ryan,Tues Fri,08:00
+40023,ACC 202,Sunita Ahlawat,Mon Thurs ,14:00
+40024,ACC 202,Christina Ryan,Tues Fri,11:00
+40229,ACC 202,Sunita Ahlawat,Mon Thurs ,08:00
+40004,ACC 211,Gerald Miller,Mon Thurs ,09:30
+40005,ACC 211,Gerald Miller,Mon Thurs ,11:00
+40021,ACC 271,Sean Raquet,Tues ,17:30
+42423,ACC 302,Abdus Shahid,Mon Thurs ,11:00
+40205,ACC 302,Abdus Shahid,Mon Thurs ,12:30
+40206,ACC 302,Abdus Shahid,Thurs ,15:30
+40019,ACC 311,Bih-Horng Chiang,Thurs ,09:30
+40207,ACC 311,Bih-Horng Chiang,Mon Thurs ,14:00
+40020,ACC 321,Ting Sun,Mon Thurs ,09:30
+40010,ACC 321,Ting Sun,Mon Thurs ,12:30
+40015,ACC 321,Ting Sun,Mon Thurs ,15:30
+40006,ACC 498,Hossein Nouri,Tues ,17:30
+40007,ACC 498,Gerald Miller,Mon Thurs ,14:00
+41703,BIO 104,Matthew Wund,Tues Fri,09:30
+41704,BIO 104,Matthew Wund,Tues ,14:00
+41705,BIO 104,Matthew Wund,Fri,14:00
+41668,BIO 142,Anthony Uzwiak,Mon Thurs ,14:00
+41669,BIO 142,Anthony Uzwiak,Tues ,14:00
+41670,BIO 142,Anthony Uzwiak,Tues ,17:30
+42250,BIO 142,Anthony Uzwiak,Mon Thurs ,15:30
+42251,BIO 142,Joseph Pepe,Wed ,14:00
+42252,BIO 142,Joseph Pepe,Wed ,17:30
+41671,BIO 144,Rita King,Mon Wed ,17:30
+41672,BIO 144,Rita King,Mon ,19:00
+41712,BIO 144,Rita King,Wed ,19:00
+41706,BIO 144,Sharron Crane,Tues Thurs ,17:30
+41707,BIO 144,Sharron Crane,Tues ,19:00
+41751,BIO 144,Sharron Crane,Thurs ,19:00
+41686,BIO 171,James Crowder,Mon Wed ,17:30
+41687,BIO 171,James Crowder,Mon ,18:30
+41690,BIO 171,James Crowder,Wed ,18:30
+41688,BIO 171,Darl Swartz,Mon Thurs ,12:30
+41689,BIO 171,Darl Swartz,Mon ,13:30
+41691,BIO 171,Darl Swartz,Thurs ,13:30
+41673,BIO 201,Donald Lovett,Tues Fri,09:30
+41674,BIO 201,Donald Lovett,Tues ,14:00
+42253,BIO 201,Donald Lovett,Thurs ,14:00
+42254,BIO 201,Philip Felton,Tues Fri,08:00
+42255,BIO 201,Philip Felton,Tues ,09:30
+42256,BIO 201,Philip Felton,Fri,09:30
+42257,BIO 201,Emily Herstoff,Mon Thurs ,14:00
+42258,BIO 201,Emily Herstoff,Mon ,09:30
+42259,BIO 201,Emily Herstoff,Thurs ,09:30
+42260,BIO 201,Agnesa Redere,Mon Wed ,17:30
+42261,BIO 201,Agnesa Redere,Mon ,19:00
+42262,BIO 201,Agnesa Redere,Wed ,19:00
+41675,BIO 211,Tracy Kress,Mon Thurs ,09:30
+41713,BIO 211,Tracy Kress,Mon ,14:00
+41676,BIO 211,Marcia O'Connell,Tues Fri,11:00
+41677,BIO 211,Marcia O'Connell,Thurs ,11:00
+41692,BIO 211,Amanda Norvell,Mon Thurs ,11:00
+41693,BIO 211,Amanda Norvell,Mon ,08:00
+41695,BIO 211,Amanda Norvell,Thurs ,08:00
+42263,BIO 211,Brian O'Neill,Tues Fri,09:30
+42264,BIO 211,Brian O'Neill,Tues ,14:00
+42265,BIO 211,Brian O'Neill,Wed ,09:00
+42266,BIO 211,Brian O'Neill,Thurs ,14:00
+42267,BIO 211,Wenting Zhu,Tues Fri,08:00
+42268,BIO 211,Wenting Zhu,Tues ,09:30
+41678,BIO 221,Howard Reinert,Mon Thurs ,09:30
+41727,BIO 221,Howard Reinert,Mon ,12:30
+42270,BIO 221,Janet Morrison,Tues Fri,11:00
+42271,BIO 221,Janet Morrison,Tues ,14:00
+42272,BIO 221,Janet Morrison,Fri,14:00
+41679,BIO 231,Kathryn Elliott,Mon Thurs ,11:00
+41680,BIO 231,Kathryn Elliott,Mon ,14:00
+41711,BIO 231,Kathryn Elliott,Thurs ,14:00
+41694,BIO 231,Zachariah Grochau-Wright,Tues Fri,11:00
+41698,BIO 231,Zachariah Grochau-Wright,Tues ,14:00
+42274,BIO 231,Sudhir Nayak,Mon Thurs ,12:30
+42275,BIO 231,Sudhir Nayak,Mon ,09:30
+41681,BIO 302,Mark Wynn,Mon Thurs ,15:30
+41682,BIO 302,Mark Wynn,Mon ,17:00
+41718,BIO 302,Mark Wynn,Thurs ,17:00
+42284,BIO 342,Keith Pecor,Mon Thurs ,08:00
+42285,BIO 342,Keith Pecor,Thurs ,09:30
+42892,BIO 342,Keith Pecor,Thurs ,12:30
+41730,BIO 344,Luke Butler,Tues Fri,14:00
+41731,BIO 344,Luke Butler,Tues ,08:00
+42810,BIO 344,Luke Butler,Fri,08:00
+42280,BIO 360,Dennis Shevlin,Tues Fri,09:30
+42281,BIO 360,Dennis Shevlin,Tues ,14:00
+42248,BIO 371,Sudhir Nayak,Tues Fri,09:30
+42248,BIO 371,Dimitrios Papamichail,Tues Fri,09:30
+42249,BIO 371,Sudhir Nayak,Fri,11:00
+42249,BIO 371,Dimitrios Papamichail,Fri,11:00
+42760,BIO 399,Jeffery Erickson,Wed ,09:30
+41738,BIO 441,Leeann Thornton,Tues Fri,09:30
+41721,BIO 470,Zaara Sarwar,Mon Thurs ,09:30
+42276,BIO 470,Zaara Sarwar,Mon ,11:00
+42277,BIO 470,Zaara Sarwar,Thurs ,11:00
+42278,BIO 470,Melkamu Woldemariam,Mon Thurs ,14:00
+42279,BIO 470,Melkamu Woldemariam,Thurs ,09:30
+42282,BIO 480,Jeffery Erickson,Mon Thurs ,11:00
+42283,BIO 480,Jeffery Erickson,Mon ,12:30
+41683,BIO 498,Brian O'Neill,Mon Thurs ,11:00
+41748,BIO 498,Zachariah Grochau-Wright,Mon Thurs ,15:30
+41518,BME 323,Tianqi Hang,Mon Wed ,17:30
+41523,BME 323,Tianqi Hang,Mon Wed ,20:00
+41519,BME 323,Tianqi Hang,Mon ,19:00
+41524,BME 323,Tianqi Hang,Wed ,19:00
+41522,BME 333,Thomas Christiani,Fri,09:30
+42667,BME 333,Thomas Christiani,Fri,14:00
+42670,BME 343,Anthony Lau,Mon Thurs ,12:30
+42668,BME 343,Anthony Lau,Mon Thurs ,14:00
+42671,BME 343,Anthony Lau,Wed ,09:00
+42669,BME 343,Anthony Lau,Wed ,10:00
+41520,BME 350,Constance Hall,Tues Fri,14:00
+42672,BME 350,Constance Hall,Tues Fri,11:00
+41517,BME 371,Brett Busha,Mon Thurs ,08:00
+42677,BME 371,Brett Busha,Mon Thurs ,09:30
+42678,BME 470,David Gabrieli,Tues Thurs ,17:30
+42679,BME 470,David Gabrieli,Tues ,16:30
+41521,BME 480,Brett Busha,Mon Thurs ,12:30
+42245,BME 496,Christopher Wagner,Wed ,10:00
+40042,BUS 100,Mary Lehr-Furtado,Wed ,10:00
+40043,BUS 100,Mary Lehr-Furtado,Wed ,11:00
+40025,BUS 200,Susanna Monseau,Mon Thurs ,09:30
+40026,BUS 200,Susanna Monseau,Mon Thurs ,11:00
+40027,BUS 200,Andrea Jacobs,Mon Thurs ,12:30
+40030,BUS 200,Kevin Michels,Tues Fri,09:30
+40032,BUS 200,Christine Schnarr Chiarello,Tues Fri,09:30
+40034,BUS 200,Lewis Scheindlin,Tues Fri,11:00
+40036,BUS 200,Lewis Scheindlin,Tues Fri,13:30
+40044,BUS 200,Thaddeus Mikulski,Tues Thurs ,17:30
+40047,BUS 200,Leonard Sprishen,Wed ,18:00
+40033,BUS 325,Nancy Lasher,Mon Thurs ,09:30
+40045,BUS 360,Susanna Monseau,Mon Thurs ,14:00
+40041,BUS 375,Kevin Michels,Tues Fri,11:00
+40225,BUS 385,Kevin Michels,Tues Fri,14:00
+40029,BUS 498,David Prensky,Mon Thurs ,14:00
+40035,BUS 498,Jeffrey Leventry,Mon ,17:30
+40039,BUS 498,Patrick Wheeler,Thurs ,17:30
+40040,BUS 498,James Requa,Tues ,17:30
+40048,BUS  99,Tammy Dieterich,Fri,12:30
+41764,CHE 201,Benny Chan,Mon Wed ,17:30
+41765,CHE 201,Benny Chan,Mon ,19:00
+41787,CHE 201,Benny Chan,Wed ,19:00
+41772,CHE 201,Donna Bassolino,Mon Thurs ,09:30
+41773,CHE 201,Donna Bassolino,Mon ,12:30
+42135,CHE 201,Donna Bassolino,Thurs ,12:30
+42136,CHE 201,Carolyn Supplee,Tues Thurs ,17:30
+42137,CHE 201,Carolyn Supplee,Tues ,19:00
+42138,CHE 201,Carolyn Supplee,Thurs ,19:00
+42139,CHE 201,Marc Brescia,Tues Fri,14:00
+42140,CHE 201,Marc Brescia,Tues ,09:30
+41766,CHE 202,Wendy Lindsey,Mon Thurs ,08:00
+41767,CHE 202,Wendy Lindsey,Mon ,09:30
+41783,CHE 202,Wendy Lindsey,Thurs ,09:30
+41794,CHE 202,Grey Simpson,Mon Wed ,17:30
+41795,CHE 202,Grey Simpson,Mon ,19:00
+41796,CHE 202,Grey Simpson,Wed ,19:00
+41768,CHE 202,Michelle Bunagan,Mon Thurs ,15:30
+41769,CHE 202,Michelle Bunagan,Mon ,12:30
+41777,CHE 202,Michelle Bunagan,Thurs ,12:30
+41774,CHE 202,Jack Johnson,Tues Fri,11:00
+41775,CHE 202,Jack Johnson,Tues ,14:00
+41784,CHE 202,Mirela Manea Krichten,Fri,14:00
+41780,CHE 202,Levi Ekanger,Tues Fri,09:30
+41781,CHE 202,Levi Ekanger,Tues ,14:00
+41782,CHE 202,Levi Ekanger,Fri,14:00
+41808,CHE 310,Rebecca Hunter,Tues Fri,08:00
+41809,CHE 310,Rebecca Hunter,Tues ,09:30
+41810,CHE 310,Rebecca Hunter,Fri,09:30
+41790,CHE 316,Danielle Guarracino,Wed ,10:00
+41791,CHE 317,Donald Hirsh,Wed ,10:00
+41763,CHE 331,Thuy Le,Mon Wed ,17:30
+41792,CHE 331,Thuy Le,Mon ,19:00
+41793,CHE 331,Thuy Le,Wed ,19:00
+41755,CHE 332,Rebecca Triano,Mon Thurs ,11:00
+41761,CHE 332,Rebecca Triano,Mon ,14:00
+41776,CHE 332,Rebecca Triano,Thurs ,14:00
+41778,CHE 332,George Theodoridis,Tues Thurs ,17:30
+41779,CHE 332,George Theodoridis,Tues ,19:00
+41804,CHE 332,George Theodoridis,Thurs ,19:00
+42058,CHE 332,Heba Abourahma,Tues Fri,11:00
+42059,CHE 332,Heba Abourahma,Tues ,14:00
+41798,CHE 332,David Hunt,Mon Thurs ,08:00
+41799,CHE 332,David Hunt,Mon ,09:30
+41807,CHE 332,David Hunt,Thurs ,09:30
+41786,CHE 350,Donna Bassolino,Tues Thurs ,17:30
+42184,CHE 370,Michael Aucott,Tues Thurs ,17:30
+41759,CHE 371,Joseph Baker,Mon Thurs ,12:30
+41756,CHE 371,Joseph Baker,Mon ,14:00
+41757,CHE 371,Joseph Baker,Thurs ,14:00
+41760,CHE 430,Stephanie Sen,Tues Fri,09:30
+41788,CHE 430,Stephanie Sen,Tues ,14:00
+42170,CHE 474,Danielle Guarracino,Mon Thurs ,09:30
+42171,CHE 474,Danielle Guarracino,Thurs ,12:30
+41802,CHE 476,Abby O'Connor,Tues Fri,11:00
+41803,CHE 476,Abby O'Connor,Tues ,14:00
+41531,CIV 251,Manish Paliwal,Mon Thurs ,08:00
+41537,CIV 251,Joseph Strafaci,Tues Thurs ,17:30
+41542,CIV 251,Joseph Strafaci,Tues Thurs ,19:00
+41545,CIV 343,Ahmed Youssefagha,Mon Wed ,17:30
+41539,CIV 343,Ahmed Youssefagha,Mon Wed ,19:00
+41532,CIV 351,Nabil Al-Omaishi,Mon Thurs ,09:30
+42583,CIV 351,James Maccariella,Tues Thurs ,17:30
+41533,CIV 351,Nabil Al-Omaishi,Wed ,09:00
+42584,CIV 351,James Maccariella,Thurs ,19:00
+42689,CIV 363,Kunal Patel,Mon ,17:00
+42690,CIV 363,Kunal Patel,Wed ,17:00
+41541,CIV 372,James Purcell,Mon Thurs ,08:00
+42582,CIV 372,James Purcell,Tues Fri,08:00
+42692,CIV 381,Kenneth Najjar,Thurs ,09:30
+41534,CIV 385,Michael Horst,Tues Fri,11:00
+42693,CIV 385,Michael Horst,Tues Fri,14:00
+41538,CIV 385,Michael Horst,Wed ,10:00
+42694,CIV 385,Michael Horst,Wed ,16:00
+41535,CIV 431,Vedrana Krstic,Tues Fri,09:30
+42701,CIV 431,Vedrana Krstic,Tues Fri,15:30
+41536,CIV 431,Vedrana Krstic,Wed ,08:00
+42702,CIV 431,Vedrana Krstic,Wed ,17:00
+41540,CIV 444,Andrew Bechtel,Mon Thurs ,11:00
+42704,CIV 444,Andrew Bechtel,Mon Thurs ,12:30
+41543,CIV 471,J. Michael Wintermute,Tues Thurs ,19:00
+41544,CIV 471,J. Michael Wintermute,Tues Thurs ,20:30
+42708,CIV 496,Vedrana Krstic,Wed ,18:00
+41813,CSC 215,Hajar Niroomand,Mon Wed ,17:30
+41821,CSC 215,Brian Higgins,Tues Thurs ,19:00
+41818,CSC 215,Shajina Anand,Tues Fri,09:30
+41819,CSC 215,Shajina Anand,Tues Fri,11:00
+41842,CSC 215,Hajar Niroomand,Mon Wed ,19:00
+41814,CSC 220,Glenn Rhoads,Thurs ,11:00
+41840,CSC 220,Mark Russo,Tues Thurs ,17:30
+41815,CSC 230,Jikai Li,Tues Fri,11:00
+41822,CSC 230,Sharif Mohammad Shahnewaz Ferdous,Mon ,11:00
+41844,CSC 230,Sharif Mohammad Shahnewaz Ferdous,Mon Thurs ,15:30
+41816,CSC 270,Andrea Salgian,Mon Thurs ,09:30
+41845,CSC 270,Andrea Salgian,Mon ,12:30
+41828,CSC 270,Glenn Rhoads,Tues Fri,11:00
+41830,CSC 270,Glenn Rhoads,Tues Fri,15:30
+41851,CSC 275,Ron Ammar,Mon ,17:30
+41827,CSC 299,Deborah Knox,Mon ,11:00
+41829,CSC 299,Deborah Knox,Mon ,14:00
+42756,CSC 307,Michael Ochs,Mon Thurs ,14:00
+41839,CSC 315,John Degood,Mon Thurs ,15:30
+42901,CSC 315,John Degood,Mon Thurs ,14:00
+41824,CSC 325,Deborah Knox,Mon Thurs ,09:30
+41826,CSC 335,Dimitrios Papamichail,Tues Fri,15:30
+41820,CSC 345,Sejong Yoon,Mon ,12:30
+41841,CSC 345,John Degood,Tues Fri,11:00
+42233,CSC 380,Sejong Yoon,Mon Thurs ,14:00
+41817,CSC 415,Sarah Pulimood,Mon Thurs ,09:30
+41847,CSC 415,Sarah Pulimood,Mon Thurs ,12:30
+41823,CSC 445,Dimitrios Papamichail,Tues Fri,14:00
+42234,CSC 450,Jikai Li,Tues ,09:30
+41825,CSC 470,Michael Bloodgood,Tues Fri,15:30
+40049,ECO 101,Jeremy Levine,Tues Fri,08:00
+40050,ECO 101,Jeremy Levine,Tues Fri,11:00
+40051,ECO 101,Jingxi Liu,Tues Fri,14:00
+40052,ECO 101,Anthony O'Donnell,Mon Thurs ,17:30
+40065,ECO 101,Jingxi Liu,Tues Fri,15:30
+40069,ECO 101,Richard Baker,Mon Thurs ,09:30
+40228,ECO 101,Jerry Cerf,Mon Thurs ,12:30
+40053,ECO 102,Donald Vandegrift,Mon Thurs ,09:30
+40054,ECO 102,Michael Elgawly,Tues Fri,08:00
+40056,ECO 102,Matthew Greenblatt,Tues Fri,09:30
+40066,ECO 102,Subarna Samanta,Mon Thurs ,12:30
+40057,ECO 102,Subhadra Ganguli,Mon Thurs ,11:00
+40058,ECO 102,Howard Nelson,Mon ,18:00
+40068,ECO 102,Subhadra Ganguli,Mon Thurs ,09:30
+40070,ECO 102,Manan Rawal,Thurs ,18:00
+40219,ECO 102,Donka Brodersen,Tues Fri,11:00
+40220,ECO 102,Howard Nelson,Tues ,18:00
+40055,ECO 102,Michele Naples,Tues Fri,09:30
+40072,ECO 120,Richard Baker,Mon Thurs ,11:00
+40059,ECO 210,Michele Naples,Tues Fri,14:00
+40061,ECO 231,Linghui Tang,Tues Fri,09:30
+40062,ECO 231,Linghui Tang,Tues ,18:00
+40221,ECO 231,Trevor O'Grady,Tues Fri,11:00
+40063,ECO 301,Donald Vandegrift,Mon Thurs ,14:00
+40218,ECO 320,Donka Brodersen,Tues Fri,13:30
+40071,ECO 340,Subhadra Ganguli,Mon Thurs ,15:30
+40067,ECO 350,Trevor O'Grady,Tues Fri,14:00
+42085,ECO 495,Trevor O'Grady,Wed ,10:00
+42086,ECO 495,Richard Baker,Wed ,10:00
+42087,ECO 495,Matthew Greenblatt,Wed ,10:00
+41552,ELC 251,Anthony Deese,Tues Fri,08:00
+41561,ELC 251,Anthony Deese,Tues Fri,09:30
+41549,ELC 321,Ambrose Adegbege,Mon Thurs ,12:30
+41559,ELC 321,John Macdonald,Tues Thurs ,17:30
+41562,ELC 321,George Holubec,Tues Thurs ,19:00
+41550,ELC 333,Joseph Jesson,Mon ,14:00
+41551,ELC 333,George Holubec,Thurs ,14:00
+41553,ELC 361,Allen Katz,Tues Fri,11:00
+41556,ELC 361,Allen Katz,Wed ,16:00
+41554,ELC 373,Allen Katz,Tues ,14:00
+41558,ELC 383,Orlando Hernandez,Mon ,14:00
+41557,ELC 383,Orlando Hernandez,Mon ,15:25
+41555,ELC 463,Orlando Hernandez,Mon ,17:00
+42791,ELC 470,Wudyalew Wondmagegn,Tues Fri,09:30
+42792,ELC 470,Wudyalew Wondmagegn,Tues Fri,09:00
+42759,ELC 480,Larry Pearlstein,Tues Fri,09:30
+42762,ELC 480,Larry Pearlstein,Tues Fri,09:00
+42729,ELC 495,Allen Katz,Wed ,08:00
+42730,ELC 496,Allen Katz,Wed ,08:00
+41571,ENG 142,Xuefeng Wei,Mon Thurs ,09:30
+41573,ENG 142,Seung-Yun Kim,Tues Fri,08:00
+41585,ENG 142,Seung-Yun Kim,Tues Fri,11:00
+41591,ENG 142,Martha Stella,Mon Thurs ,12:30
+41572,ENG 142,Xuefeng Wei,Thurs ,14:00
+41583,ENG 142,Andrew Bechtel,Thurs ,15:30
+41587,ENG 142,Seung-Yun Kim,Fri,14:00
+41586,ENG 142,Hongxiang Cao,Mon ,15:30
+41574,ENG 152,Sanjeeva Murthy,Mon Wed ,19:00
+42579,ENG 152,Shahrouz Zamani Khalajabadi,Mon Thurs ,08:00
+42580,ENG 152,Shahrouz Zamani Khalajabadi,Mon Thurs ,09:30
+41605,ENG 212,Hibbert Duncan,Mon Thurs ,08:00
+42758,ENG 214,Wudyalew Wondmagegn,Fri,14:00
+41588,ENG 222,Vedrana Krstic,Tues Fri,08:00
+41575,ENG 262,Safwan Rached,Mon Thurs ,09:30
+41584,ENG 262,Safwan Rached,Mon Thurs ,11:00
+41595,ENG 262,Mohamed Mahgoub,Tues Fri,11:00
+41576,ENG 272,Ching-Tai Shih,Mon Thurs ,12:30
+41577,ENG 312,Larry Pearlstein,Tues Fri,11:00
+41603,ENG 312,Ehsan Saeidpour Parizy,Tues Fri,08:00
+41590,ENG 312,Larry Pearlstein,Tues Fri,12:30
+41604,ENG 312,Ehsan Saeidpour Parizy,Tues Fri,07:30
+41578,ENG 342,Christine Delahanty,Tues Thurs ,17:30
+41592,ENG 348,Orlando Hernandez,Mon ,08:00
+41601,ENG 348,Orlando Hernandez,Thurs ,08:00
+41593,ENG 348,Orlando Hernandez,Mon ,07:30
+41602,ENG 348,Orlando Hernandez,Thurs ,07:30
+41582,ENG 352,Ambrose Adegbege,Mon Thurs ,09:30
+41596,ENG 352,Hibbert Duncan,Mon Thurs ,12:30
+41579,ENG 354,Ehsan Saeidpour Parizy,Mon ,14:00
+41600,ENG 354,Frederick Kelly,Thurs ,14:00
+41580,ENG 372,Ching-Tai Shih,Mon Thurs ,08:00
+41589,ENG 372,Ching-Tai Shih,Mon Thurs ,09:30
+41581,ENG 452,Diana Cano,Mon ,12:30
+43200,ENG  96,Martha Stella,Wed ,11:00
+41599,ENG  98,Anthony Deese,Fri,12:30
+41598,ENG  98,Manish Paliwal,Wed ,17:30
+41606,ETE 111,Christopher Better,Thurs ,17:30
+41613,ETE 111,Christopher Better,Thurs ,20:30
+41607,ETE 131,Steve O'Brien,Mon Thurs ,09:30
+41608,ETE 131,Steve O'Brien,Wed ,16:00
+41621,ETE 261,Sheryl Roses,Mon ,17:30
+41622,ETE 261,Sheryl Roses,Mon ,20:30
+41612,ETE 271,Matthew Cathell,Mon Thurs ,11:00
+41616,ETE 271,Matthew Cathell,Wed ,10:00
+41623,ETE 275,James Mulligan,Wed ,17:30
+41624,ETE 275,James Mulligan,Wed ,20:30
+41609,ETE 281,Michael Cappiello,Tues ,17:30
+41617,ETE 281,Michael Cappiello,Tues ,20:30
+41619,ETE 341,Matthew Cathell,Mon Thurs ,14:00
+41620,ETE 341,Matthew Cathell,Wed ,16:00
+41610,ETE 361,Sheryl Roses,Wed ,17:30
+41614,ETE 361,Sheryl Roses,Wed ,20:30
+41611,ETE 385,Steve O'Brien,Mon ,15:30
+42722,ETE 461,Nicholas Beykirch,Tues ,17:30
+42723,ETE 461,Nicholas Beykirch,Tues ,20:30
+41615,ETE 492,Nicholas Beykirch,Thurs ,17:30
+41625,ETE 492,Nicholas Beykirch,Thurs ,20:30
+41618,ETE 495,Manuel Figueroa,Mon Thurs ,12:30
+40074,FIN 201,Susan Hume,Mon Thurs ,14:00
+40094,FIN 201,Susan Hume,Mon Thurs ,14:00
+40096,FIN 201,Susan Hume,Mon Thurs ,15:30
+40077,FIN 201,Susan Hume,Mon Thurs ,15:30
+40097,FIN 201,Nicola Lasky,Tues Fri,09:30
+40101,FIN 201,Catherine Bernard,Tues ,17:30
+40210,FIN 201,Catherine Bernard,Mon ,17:30
+40092,FIN 310,Clare Bohnett,Tues Fri,08:00
+40091,FIN 310,Tae-Nyun Kim,Mon Thurs ,12:30
+40084,FIN 310,Tae-Nyun Kim,Mon Thurs ,14:00
+40102,FIN 310,Clare Bohnett,Tues Fri,09:30
+40099,FIN 310,Patrick Singkamanand,Thurs ,17:30
+40098,FIN 310,Patrick Singkamanand,Mon ,17:30
+40217,FIN 315,Seung Hee Choi,Tues Fri,09:30
+40075,FIN 320,Herbert Mayo,Mon Thurs ,14:00
+40085,FIN 320,Herbert Mayo,Mon Thurs ,12:30
+40078,FIN 330,Seung Hee Choi,Tues Fri,08:00
+40083,FIN 330,Tae-Nyun Kim,Mon Thurs ,09:30
+40089,FIN 330,Nonna Sorokina,Mon Thurs ,09:30
+40080,FIN 340,Susan Hume,Mon Thurs ,09:30
+40081,FIN 360,Nonna Sorokina,Mon Thurs ,11:00
+40090,FIN 360,Eric Szabo,Wed ,18:00
+40216,FIN 360,Nonna Sorokina,Mon Thurs ,14:00
+42067,FIN 391,Herbert Mayo,Tues Fri,11:00
+42069,FIN 391,Thomas Patrick,Wed ,16:00
+42070,FIN 391,Thomas Patrick,Wed ,16:00
+40076,FIN 410,Herbert Mayo,Tues Fri,13:00
+40079,FIN 430,Thomas Patrick,Wed ,17:00
+40082,FIN 430,Thomas Patrick,Thurs ,17:30
+42078,FIN 495,Seung Hee Choi,Tues Fri,14:00
+40240,HES 151,Laura Bruno,Tues Fri,09:30
+42676,HES 152,Tracy Radler,Mon ,17:00
+40257,HES 160,John Farrell,Mon Thurs ,12:30
+40262,HES 172,Jill Bush-Wallace,Tues Fri,12:30
+40266,HES 183,Joseph Russo,Mon Thurs ,11:00
+40269,HES 183,Joseph Russo,Mon Thurs ,09:30
+42749,HES 183,Richard Galante,Tues Fri,09:30
+42750,HES 183,Richard Galante,Tues Fri,11:00
+40241,HES 203,John Farrell,Mon Wed Thurs ,08:00
+40243,HES 205,John Farrell,Mon Wed Thurs ,09:30
+40260,HES 205,John Farrell,Mon Wed Thurs ,11:00
+42687,HES 210,Nicholas Ratamess,Mon Thurs ,08:00
+42688,HES 210,Nicholas Ratamess,Mon Thurs ,09:30
+40246,HES 211,Jie Kang,Mon Thurs ,12:30
+40254,HES 211,Jie Kang,Mon Thurs ,14:00
+40247,HES 250,Jie Kang,Mon Thurs ,11:00
+40268,HES 260,Laura Bruno,Tues Fri,11:00
+40263,HES 270,Anne Farrell,Mon Thurs ,07:30
+40258,HES 280,Anne Farrell,Mon Wed Thurs ,09:30
+40275,HES 300,Avery Faigenbaum,Mon Thurs ,07:30
+40265,HES 301,Nicholas Ratamess,Tues Fri,11:00
+42905,HES 301,Nicholas Ratamess,Tues Fri,11:00
+40244,HES 302,Jill Bush-Wallace,Tues Fri,07:30
+40270,HES 320,Jill Bush-Wallace,Tues Fri,09:30
+42903,HES 320,Jill Bush-Wallace,Tues Fri,09:30
+40256,HES 351,Joanne Smith-Tavener,Tues ,17:00
+40252,HES 351,Joanne Smith-Tavener,Tues ,15:30
+40248,HES 360,Laura Bruno,Tues Fri,12:30
+40255,HES 405,Avery Faigenbaum,Mon Thurs ,09:30
+40267,HES 410,Nicholas Ratamess,Mon Thurs ,12:30
+40363,HES 480,Laura Bruno,,09:30
+40259,HES 496,Noah Beller,Wed ,07:30
+40250,HES 497,Jill Bush-Wallace,Tues ,16:00
+40264,HES 497,Jie Kang,Wed ,16:00
+40251,HES 498,Anne Farrell,Tues Wed Thurs ,17:00
+40106,INB 260,Linghui Tang,Tues Fri,11:00
+40194,IST 201,Leonard Niebo,Mon Thurs ,14:00
+40197,IST 201,Leonard Niebo,Mon Thurs ,14:00
+40195,IST 201,Lynn Braender,Tues Fri,11:00
+40198,IST 201,Lynn Braender,Tues Fri,11:00
+40196,IST 201,Manuel Montiel,Mon Wed ,17:30
+40199,IST 201,Manuel Montiel,Mon Wed ,17:30
+40200,IST 201,Lynn Braender,Tues Fri,09:30
+40201,IST 201,Lynn Braender,Tues Fri,09:30
+40190,IST 310,Patricia Wallace,Mon Thurs ,11:00
+40191,IST 310,Patricia Wallace,Mon Thurs ,12:30
+40203,IST 310,Patricia Wallace,Mon Thurs ,15:30
+40192,IST 320,Abhishek Tripathi,Mon Thurs ,11:00
+40193,IST 320,Abhishek Tripathi,Mon Thurs ,14:00
+40204,IST 340,Lynn Braender,Tues Fri,14:00
+40202,IST 350,Abhishek Tripathi,Mon Thurs ,15:30
+42535,IST 400,Patricia Wallace,Mon ,17:00
+40214,IST 400,Lynn Braender,Tues Fri,15:30
+41853,MAT 101,Kellie Mckinney,Tues Thurs ,18:00
+41883,MAT 102,Laura Holloway,Tues Fri,14:00
+41874,MAT 105,Cathy Liebars,Mon Thurs ,11:00
+41897,MAT 105,Cathy Liebars,Mon Thurs ,12:30
+41875,MAT 106,Eric HWasserman,Mon Wed ,18:00
+42457,MAT 114,Rachel Snider,Mon Thurs ,14:00
+41894,MAT 119,Laura Holloway,Mon Wed ,18:00
+41891,MAT 120,Suriza Van Der Sandt,Mon Thurs ,09:30
+41895,MAT 120,Polly Dell'Omo,Tues Fri,11:00
+41855,MAT 125,Daniel Twisler,Mon Wed ,18:00
+41856,MAT 125,Daniel Twisler,Mon Wed ,19:30
+41886,MAT 125,Thomas Hagedorn,Mon Thurs ,12:30
+41886,MAT 125,Warner Johnson,Mon Thurs ,12:30
+41889,MAT 125,Thomas Hagedorn,Mon Thurs ,14:00
+41889,MAT 125,Warner Johnson,Mon Thurs ,14:00
+41857,MAT 127,David Reimer,Mon Thurs ,11:00
+41858,MAT 127,Jana Gevertz Fiorelli,Mon Thurs ,12:30
+41860,MAT 127,Amanda Nicol,Tues Thurs ,19:30
+41859,MAT 127,Amanda Nicol,Tues Thurs ,17:30
+41879,MAT 127,Paul Kuehne,Mon Wed ,19:30
+41885,MAT 127,Paul Kuehne,Mon Wed ,17:30
+41861,MAT 128,Aigli Papantonopoulou,Mon Thurs ,14:00
+41862,MAT 128,Aigli Papantonopoulou,Mon Thurs ,15:30
+41863,MAT 128,Nicholas Battista,Tues Fri,08:00
+41864,MAT 128,William Franczak,Tues Fri,15:30
+41902,MAT 128,Charlie Ashton,Tues Fri,08:00
+41866,MAT 128,Charlie Ashton,Tues Fri,09:30
+41867,MAT 128,Christopher Holston,Mon Wed ,17:30
+41877,MAT 128,Christopher Holston,Mon Wed ,19:30
+41868,MAT 200,Judit Kardos,Tues Fri,11:00
+41878,MAT 200,Susan Schmoyer,Mon Thurs ,09:30
+41887,MAT 200,Susan Schmoyer,Mon Thurs ,11:00
+41869,MAT 205,Cynthia Curtis-Budka,Mon Thurs ,11:00
+41870,MAT 205,William Franczak,Tues Fri,08:00
+41884,MAT 205,William Franczak,Tues Fri,09:30
+41871,MAT 229,Andrew Clifford,Tues Fri,11:00
+41872,MAT 229,Qifu Zheng,Mon Thurs ,08:00
+41873,MAT 229,Qifu Zheng,Mon Thurs ,09:30
+41880,MAT 229,Qifu Zheng,Mon Thurs ,12:30
+41882,MAT 229,Edward Voskanian,Tues Fri,08:00
+41890,MAT 229,Edward Voskanian,Tues Fri,09:30
+41896,MAT 229,Edward Voskanian,Tues Fri,14:00
+41899,MAT 255,David Reimer,Mon Thurs ,14:00
+41900,MAT 255,David Reimer,Mon Thurs ,15:30
+42345,MAT 265,Neal Horrell,Mon Wed ,18:00
+42816,MAT 275,Karen Clark,Tues ,14:00
+42817,MAT 275,Karen Clark,Fri,14:00
+42346,MAT 301,Thomas Hagedorn,Mon Thurs ,09:30
+42347,MAT 301,Thomas Hagedorn,Mon Thurs ,12:30
+42348,MAT 305,Steffen Marcus,Tues Fri,15:30
+42349,MAT 310,Judit Kardos,Tues Fri,14:00
+42350,MAT 310,Judit Kardos,Tues Fri,15:30
+42351,MAT 320,Aigli Papantonopoulou,Mon Thurs ,11:00
+42352,MAT 326,Matthew Mizuhara,Mon Thurs ,12:30
+42353,MAT 326,Matthew Mizuhara,Mon Thurs ,14:00
+42354,MAT 331,Karen Clark,Tues Fri,11:00
+42355,MAT 351,Cynthia Curtis-Budka,Mon Thurs ,12:30
+42356,MAT 451,Steffen Marcus,Tues Fri,14:00
+42357,MAT 498,Karen Clark,Tues Fri,09:30
+42358,MAT 498,Andrew Clifford,Tues Fri,09:30
+41852,MAT  95,Arun Mukherjee,Tues Fri,09:30
+41635,MEC 251,Manish Paliwal,Mon Thurs ,08:00
+41626,MEC 251,Joseph Strafaci,Tues Thurs ,17:30
+41636,MEC 251,Joseph Strafaci,Tues Thurs ,19:00
+41627,MEC 263,Hongxiang Cao,Mon ,12:30
+41628,MEC 263,Bijan Sepahpour,Tues ,14:00
+41638,MEC 263,Bijan Sepahpour,Thurs ,14:00
+41633,MEC 343,Anthony Lau,Mon Thurs ,12:30
+42951,MEC 343,Anthony Lau,Mon Thurs ,14:00
+41634,MEC 343,Anthony Lau,Wed ,09:00
+42952,MEC 343,Anthony Lau,Wed ,10:00
+41639,MEC 361,Lisa Grega,Tues Fri,14:00
+41647,MEC 361,Farzan Kazemi,Mon Wed ,17:30
+42832,MEC 361,Farzan Kazemi,Mon Wed ,19:00
+41629,MEC 363,Lisa Grega,Tues ,08:00
+41632,MEC 363,Kunal Patel,Fri,15:30
+41630,MEC 371,George Facas,Mon Thurs ,14:00
+41640,MEC 371,George Facas,Mon Thurs ,12:30
+42753,MEC 421,Bijan Sepahpour,Mon Thurs ,09:30
+42754,MEC 421,Bijan Sepahpour,Wed ,16:00
+42698,MEC 451,George Facas,Mon Thurs ,08:00
+42699,MEC 451,George Facas,Wed ,08:00
+41631,MEC 463,Yunfeng Wang,Mon ,11:00
+41637,MEC 463,Yunfeng Wang,Thurs ,11:00
+41645,MEC 483,Yunfeng Wang,Mon Thurs ,15:30
+41646,MEC 483,Yunfeng Wang,Mon Thurs ,17:00
+42700,MEC 496,Bijan Sepahpour,Wed ,10:00
+40108,MGT 201,David Prensky,Mon ,08:00
+40109,MGT 201,David Prensky,Mon ,09:30
+40125,MGT 201,Carla Fallone,Thurs ,17:30
+40110,MGT 201,James Requa,Tues Fri,12:30
+40130,MGT 201,James Requa,Tues Fri,12:30
+40148,MGT 201,Edward Kurocka,Mon Thurs ,11:00
+40126,MGT 201,Edward Kurocka,Mon Thurs ,11:00
+40138,MGT 235,Joseph Cerenzio,Mon ,17:30
+40111,MGT 301,Brenda Ghitulescu,Mon Thurs ,12:30
+40136,MGT 301,Brenda Ghitulescu,Mon Thurs ,11:00
+40153,MGT 301,Edward Kurocka,Wed ,17:30
+40127,MGT 310,Waheeda Lillevik,Mon Thurs ,08:00
+40128,MGT 310,Waheeda Lillevik,Mon Thurs ,09:30
+40112,MGT 320,Alberto Carbonilla,Tues Fri,08:00
+40113,MGT 320,Alberto Carbonilla,Tues Fri,09:30
+40135,MGT 320,Apryl Roach,Wed ,17:30
+40224,MGT 345,Jeffrey Leventry,Wed ,17:30
+40114,MGT 360,Karl Peterson,Tues Fri,13:30
+40115,MGT 360,Karl Peterson,Tues Fri,15:30
+40116,MGT 360,Shengbin Wang,Mon Thurs ,12:30
+40137,MGT 360,Shengbin Wang,Mon Thurs ,15:30
+40140,MGT 360,Edward Siecienski,Mon ,17:30
+40145,MGT 370,Robert Roche,Thurs ,17:30
+40152,MGT 370,Shengbin Wang,Tues ,17:30
+40144,MGT 375,Kevin Michels,Tues Fri,11:00
+40117,MGT 381,Carla Fallone,Mon Thurs ,11:00
+40118,MGT 385,Kevin Michels,Tues Fri,14:00
+40129,MGT 498,David Prensky,Mon Thurs ,14:00
+40131,MGT 498,Jeffrey Leventry,Mon ,17:30
+40143,MGT 498,Patrick Wheeler,Thurs ,17:30
+42898,MGT 498,James Requa,Tues ,17:30
+40119,MGT 499,Xu Han,Tues Fri,09:30
+40120,MGT 499,Jinsil Kim,Mon Thurs ,08:00
+40134,MGT 499,Jinsil Kim,Mon Thurs ,09:30
+40121,MGT 499,Jinsil Kim,Mon Thurs ,11:00
+40122,MGT 499,Martine Bertin-Peterson,Tues Fri,11:00
+40123,MGT 499,Martine Bertin-Peterson,Tues Fri,13:30
+40124,MGT 499,Xu Han,Tues Fri,08:00
+40132,MGT 499,Stephan Henig,Tues ,17:30
+40139,MGT 499,Joao Neves,Mon Thurs ,15:30
+42187,MGT 499,Joao Neves,Wed ,17:30
+40154,MKT 201,David Prensky,Thurs ,08:00
+40155,MKT 201,David Prensky,Thurs ,09:30
+40187,MKT 201,Carla Fallone,Thurs ,19:31
+40162,MKT 201,Dawn Epstein,Mon Thurs ,11:00
+40168,MKT 201,Dawn Epstein,Mon Thurs ,11:00
+40235,MKT 201,Jean Brechman,Mon Thurs ,14:00
+40236,MKT 201,Jean Brechman,Mon Thurs ,14:00
+40186,MKT 201,Shawn Sheridan,Wed ,17:30
+40167,MKT 201,Shawn Sheridan,Wed ,17:30
+40156,MKT 300,John Mccarty,Mon Thurs ,15:30
+40179,MKT 300,John Mccarty,Mon Wed ,17:30
+40160,MKT 310,Louis Tucci,Mon Thurs ,11:00
+40170,MKT 310,Louis Tucci,Mon Thurs ,12:30
+40166,MKT 340,Jingyi Duan,Tues Fri,14:00
+40180,MKT 340,Jingyi Duan,Tues Fri,15:30
+40181,MKT 340,Edward Siecienski,Thurs ,17:30
+40157,MKT 360,Elizabeth Markus,Mon ,17:30
+40183,MKT 360,Laura Vogel,Tues ,14:00
+40178,MKT 360,Catherine Feather,Wed ,17:30
+40163,MKT 365,Karen Becker,Mon Thurs ,11:00
+40164,MKT 365,Karen Becker,Mon Thurs ,12:30
+40184,MKT 370,Jingyi Duan,Tues Fri,09:30
+42585,MKT 370,Marc Monseau,Thurs ,17:30
+40188,MKT 370,Eric John,Mon ,17:30
+40159,MKT 371,Aniefre Inyang,Tues Fri,09:30
+40172,MKT 371,Aniefre Inyang,Tues Fri,11:00
+40158,MKT 380,Jean Brechman,Mon Thurs ,11:00
+40169,MKT 380,Jean Brechman,Mon Thurs ,12:30
+40171,MKT 450,Patrick Wheeler,Mon ,17:30
+42456,MKT 450,Chris Mckenzie,Tues ,17:30
+41905,MTT 202,Saundra Conte,Fri,08:00
+41906,MTT 202,Barbara Braverman,Thurs ,08:00
+41907,MTT 202,Jillian Bershtein,Mon ,08:00
+41917,MTT 202,Judith Winogron,Fri,12:30
+40323,NUR 110,Patricia Gellasch,Tues ,09:30
+40276,NUR 200,Constance Kartoz,Mon ,13:00
+40317,NUR 200,Constance Kartoz,Wed ,09:00
+40307,NUR 202,Beth Young,Tues ,17:00
+40325,NUR 202,Beth Young,Wed ,16:00
+40329,NUR 210,Sharen Clugston,Wed ,17:00
+40277,NUR 240,Sonji Brooks,Tues ,08:00
+40277,NUR 240,Dolores Dzubaty,Tues ,08:00
+40278,NUR 240,Dolores Dzubaty,Tues ,08:00
+40278,NUR 240,Melissa Puschak,Tues ,08:00
+40279,NUR 240,Dolores Dzubaty,Tues ,08:00
+40279,NUR 240,Adrienne Probola,Tues ,08:00
+40322,NUR 240,Dolores Dzubaty,Tues ,08:00
+40322,NUR 240,Melissa Przemieniecki,Tues ,08:00
+40280,NUR 240,Rahshida Atkins,Thurs ,08:00
+40280,NUR 240,Dolores Dzubaty,Thurs ,08:00
+40281,NUR 240,Bola Amon,Thurs ,08:00
+40281,NUR 240,Dolores Dzubaty,Thurs ,08:00
+40282,NUR 240,Dolores Dzubaty,Thurs ,08:00
+40283,NUR 240,Dolores Dzubaty,Thurs ,08:00
+40283,NUR 240,Chelsea Lebo,Thurs ,08:00
+40357,NUR 300,Joshua Ardise,Mon ,17:00
+40357,NUR 300,Sharon Byrne,Mon ,17:00
+40314,NUR 328,Yolanda Nelson,Mon ,13:30
+40331,NUR 328,Deirdre Jackson,Wed ,17:00
+40378,NUR 328,Patricia Gellasch,Mon ,14:00
+40292,NUR 340,Eileen Alexy,Wed ,08:30
+40292,NUR 340,Sharon Byrne,Wed ,08:30
+40293,NUR 340,Eileen Alexy,Tues ,07:00
+40293,NUR 340,Constance Kartoz,Tues ,07:00
+40294,NUR 340,Eileen Alexy,Tues ,07:00
+40295,NUR 340,Eileen Alexy,Tues ,07:00
+40295,NUR 340,Heather Heithoff,Tues ,07:00
+40296,NUR 340,Eileen Alexy,Tues ,07:00
+40296,NUR 340,Heather Heithoff,Tues ,07:00
+40297,NUR 344,Tami Jakubowski,Wed ,10:00
+40298,NUR 344,Tami Jakubowski,Thurs Fri,07:00
+40298,NUR 344,Deborah King,Thurs Fri,07:00
+40299,NUR 344,Margaret Estlow,Thurs Fri,07:00
+40299,NUR 344,Tami Jakubowski,Thurs Fri,07:00
+40300,NUR 344,Tami Jakubowski,Thurs Fri,07:00
+40300,NUR 344,Joan Markison,Thurs Fri,07:00
+40315,NUR 344,Tami Jakubowski,Thurs Fri,07:00
+40301,NUR 440,Tracy Perron,Mon ,09:20
+40302,NUR 440,Tracy Perron,Wed ,09:30
+40365,NUR 440,Tracy Perron,Mon ,14:00
+40303,NUR 444,Joanne Korba,Tues ,07:00
+40303,NUR 444,Tracy Perron,Tues ,07:00
+40304,NUR 444,Diana Garzio,Tues ,07:00
+40304,NUR 444,Tracy Perron,Tues ,07:00
+40319,NUR 444,Deborah Gash,Tues ,07:00
+40319,NUR 444,Tracy Perron,Tues ,07:00
+40305,NUR 444,Tracy Perron,Tues ,07:00
+40305,NUR 444,Ellen Rudowski,Tues ,07:00
+40306,NUR 444,Wendy Massaro-Johnson,Thurs ,07:00
+40306,NUR 444,Tracy Perron,Thurs ,07:00
+40321,NUR 444,Miriam Cohen,Thurs ,07:00
+40321,NUR 444,Tracy Perron,Thurs ,07:00
+40333,NUR 444,Tracy Perron,Thurs ,07:00
+40333,NUR 444,Mary Thomas,Thurs ,07:00
+40310,NUR 460,Katie Hooven,Wed ,10:00
+40311,NUR 460,Katie Hooven,Mon ,12:00
+40324,NUR 460,Katie Hooven,Mon ,10:00
+40330,NUR 460,Sharen Clugston,Tues ,17:00
+40356,PBH 220,Danielle Cooper,Thurs ,17:30
+40352,PBH 240,Carolina Marques-Borges,Tues Fri,09:30
+40371,PBH 240,Carolina Marques-Borges,Tues Fri,11:00
+40381,PBH 240,Lisa Gulla,Wed ,17:30
+40382,PBH 300,Joshua Ardise,Mon ,17:00
+40382,PBH 300,Sharon Byrne,Mon ,17:00
+40350,PBH 375,Marina Celly Martins RDe Souza,Tues Fri,12:30
+40351,PBH 375,Marina Celly Martins RDe Souza,Tues Fri,14:00
+40353,PBH 376,Natasha Patterson,Mon Thurs ,09:30
+40354,PBH 376,Natasha Patterson,Mon Thurs ,12:30
+40370,PBH 379,Virginia Wheatley,Thurs ,17:30
+40369,PBH 401,Theresa Soya,Tues ,17:30
+40347,PBH 405,Livia Lazzaro,Tues ,20:30
+40347,PBH 405,Natasha Patterson,Tues ,20:30
+40347,PBH 405,Brenda Seals,Tues ,20:30
+42103,PHY 103,Gary Pajer,Mon Wed ,19:30
+42104,PHY 103,Gary Pajer,Mon ,17:30
+42105,PHY 103,Gary Pajer,Wed ,17:30
+42106,PHY 103,Sarbmeet Kanwal,Tues Fri,09:30
+42107,PHY 103,Sarbmeet Kanwal,Tues ,11:00
+42108,PHY 120,Shannon Graham,Mon Thurs ,09:30
+42109,PHY 120,Shannon Graham,Mon ,11:00
+42110,PHY 120,Shannon Graham,Thurs ,11:00
+42111,PHY 120,Steven Spayd,Tues Thurs ,17:30
+42112,PHY 120,Steven Spayd,Tues ,19:00
+42113,PHY 120,Steven Spayd,Thurs ,19:00
+42114,PHY 120,Pierre Lacombe,Mon Wed ,17:30
+42115,PHY 120,Pierre Lacombe,Mon ,19:00
+42116,PHY 120,Pierre Lacombe,Wed ,19:00
+42117,PHY 162,Lauranne Lanz,Mon Thurs ,14:00
+42118,PHY 162,Lauranne Lanz,Mon ,15:30
+42119,PHY 162,Lauranne Lanz,Thurs ,15:30
+42120,PHY 163,Wad Thulsi Wickramasinghe,Mon Thurs ,08:00
+42121,PHY 163,Wad Thulsi Wickramasinghe,Mon ,09:30
+42122,PHY 163,Wad Thulsi Wickramasinghe,Thurs ,09:30
+42123,PHY 171,Nathan Magee,Tues Fri,11:00
+42124,PHY 171,Nathan Magee,Tues ,13:30
+42126,PHY 201,Michael Kalb,Mon Thurs ,11:00
+42127,PHY 201,Michael Kalb,Mon ,12:30
+42128,PHY 201,Michael Kalb,Thurs ,12:30
+42129,PHY 201,Kushal Shrestha,Tues Thurs ,19:30
+42130,PHY 201,Kushal Shrestha,Tues ,17:30
+42131,PHY 201,Kushal Shrestha,Thurs ,17:30
+42132,PHY 201,Nicholas Nesh,Tues Fri,15:30
+42133,PHY 201,Nicholas Nesh,Tues ,13:30
+42134,PHY 201,Nicholas Nesh,Fri,13:30
+42150,PHY 202,Nicholas Nesh,Tues Fri,09:30
+42151,PHY 202,Nicholas Nesh,Tues ,11:30
+42152,PHY 202,Nicholas Nesh,Fri,11:30
+42153,PHY 202,Oscar Ochoa,Mon Thurs ,11:00
+42154,PHY 202,Oscar Ochoa,Mon ,12:30
+42155,PHY 202,Oscar Ochoa,Thurs ,12:30
+42156,PHY 202,Vadim Troychansky,Tues Thurs ,17:30
+42157,PHY 202,Vadim Troychansky,Tues ,19:00
+42158,PHY 202,Vadim Troychansky,Thurs ,19:00
+42159,PHY 202,Joseph Ward,Mon Thurs ,14:00
+42160,PHY 202,Joseph Ward,Thurs ,15:30
+42161,PHY 202,Joseph Ward,Mon ,15:30
+42162,PHY 202,Teymour Darkhosh,Mon Wed ,17:30
+42163,PHY 202,Teymour Darkhosh,Mon ,19:00
+42164,PHY 202,Teymour Darkhosh,Wed ,19:00
+42172,PHY 204,Angela Capece,Tues Fri,11:00
+42173,PHY 204,Angela Capece,Tues ,08:00
+42174,PHY 220,Shannon Graham,Tues Fri,14:00
+42175,PHY 220,Shannon Graham,Tues ,15:30
+42176,PHY 299,Angela Capece,Wed ,11:00
+42177,PHY 336,Anh Tuan Nguyen,Tues Fri,09:30
+42178,PHY 356,Anh Tuan Nguyen,Mon Thurs ,09:30
+42179,PHY 390,Alan Richards,Tues ,17:30
+42180,PHY 401,Oscar Ochoa,Mon Thurs ,15:30
+42181,PHY 422,Wad Thulsi Wickramasinghe,Mon Thurs ,12:30
+42182,PHY 451,David Mcgee,Mon ,09:00
+42183,PHY 451,David Mcgee,Thurs ,09:00
+41925,SCI  99,Laurel Leonard,Wed ,11:00
+41929,STA 115,Eric HWasserman,Mon Wed ,19:30
+41930,STA 115,Laird Ottman,Tues Thurs ,19:00
+41931,STA 115,Deoki Sharma,Mon Thurs ,09:30
+41932,STA 115,Deoki Sharma,Mon Thurs ,12:30
+41933,STA 115,George Pangalos,Mon Wed ,18:00
+41939,STA 115,George Pangalos,Mon Wed ,19:30
+41941,STA 115,Mark Angelo,Tues Thurs ,17:30
+41942,STA 115,Mark Angelo,Tues Thurs ,19:00
+41943,STA 115,Stacye Chen,Tues Fri,09:30
+41944,STA 115,Stacye Chen,Tues Fri,11:00
+42359,STA 115,Laird Ottman,Tues Thurs ,17:30
+41936,STA 215,Sharon Navard,Tues Fri,09:30
+41937,STA 215,Sharon Navard,Tues Fri,11:00
+41938,STA 215,Gregory Stock,Tues Fri,14:00
+41934,STA 215,Gregory Stock,Mon Thurs ,14:00
+41935,STA 215,Gregory Stock,Mon Thurs ,15:30
+42362,STA 306,Gregory Stock,Tues Fri,11:00
+42363,STA 307,Michael Ochs,Mon Thurs ,14:00
+42361,STA 410,Sharon Navard,Tues Fri,14:00
+42360,STA 498,Michael Ochs,Mon Thurs ,11:00
+41649,TED 380,James Mulligan,Mon ,17:30
+41650,TED 460,Melissa Zrada,Mon Thurs ,09:30
+41651,TED 460,Melissa Zrada,Wed ,09:00
+41652,TED 480,Tanner Huffman,Tues Fri,09:30
+41660,TST 161,Norman Asper,Tues Fri,09:30
+41659,TST 161,Norman Asper,Tues Fri,11:00
+41655,TST 161,Tanner Huffman,Tues Fri,14:00
+41658,TST 161,Melissa Zrada,Mon Thurs ,12:30
+41657,TST 161,Thomas Jennings,Mon ,17:30
+41656,TST 161,Tara Dec,Tues ,17:30
+41661,TST 161,Christopher Anderson,Thurs ,17:30
+41662,TST 161,Christopher Anderson,Wed ,17:30
