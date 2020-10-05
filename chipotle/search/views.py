@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.db.models import Q
 from django.views.generic import TemplateView, ListView
+from django.contrib.auth.models import User
 from .models import *
 # Create your views here.
 
@@ -10,7 +11,7 @@ class Homepage(TemplateView):
 class Search(ListView):
     model = courseInfo
     template_name = 'search.html'
-    print("before method")
+
     def get_queryset(self):
         query =  self.request.GET.get('q')
         object_list = courseInfo.objects.filter(
@@ -20,3 +21,13 @@ class Search(ListView):
         )
         print("in method")
         return object_list
+
+def displayProfile(request, username):
+
+    
+    usr = User.objects.get(username = username)
+    profileData = studentInfo.objects.get(user = usr)
+    print(profileData)
+    print(usr)
+    context = {"profileData" : profileData}
+    return render(request,'displayProfile.html', context)

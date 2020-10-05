@@ -1,0 +1,14 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<h1>Your Profile</h1>
+
+<h2>{{displayProfile.user.first_name}} {{displayProfile.user.last_name}} </h2>    
+    
+    <ul>{{displayProfile.student_id}} </ul>
+    <ul>{{displayProfile.major}}</ul>
+
+<h3>footer</h3>
+
+{% endblock %}
